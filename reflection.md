@@ -79,5 +79,10 @@ I verified the fix was incorrect by running the app and confirming that pressing
 
 - What is one habit or strategy from this project that you want to reuse in future labs or projects?
   - This could be a testing habit, a prompting strategy, or a way you used Git.
+--- I think using Claude Code to debug and understand the bugs was really cool. I also enjoyed looking at the tests that Claude Code generated and I would continue to use that strategy in the future to help me design tests for my code.
+
 - What is one thing you would do differently next time you work with AI on a coding task?
+--- I would try to be more specific in my prompts to the AI to get more accurate suggestions. For example, when asking for help with the "Enter" key issue, I could have provided more context about how the app was currently handling input and what I expected to happen when pressing the "Enter" key.
+
 - In one or two sentences, describe how this project changed the way you think about AI generated code.
+--- This project showed me that AI-generated code can be really helpful for fixing bugs and improving my code, but it's important to verify the suggestions and understand the underlying logic to ensure that the fixes are actually correct.
