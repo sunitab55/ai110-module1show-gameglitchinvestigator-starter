@@ -6,7 +6,7 @@ Answer each question in 3 to 5 sentences. Be specific and honest about what actu
 
 - What did the game look like the first time you ran it?
 - List at least two concrete bugs you noticed at the start  
-  (for example: "the secret number kept changing" or "the hints were backwards").
+  (for example: "the hints were backwards").
 
 --- "Go Higher" for all the numbers [0, 50, 77, 99] "labels were wrong"
 --- Attempt Allowed: 8 (in the instructions) vs Attempt Allowed: 7 (in the app)
